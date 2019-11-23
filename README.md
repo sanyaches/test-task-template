@@ -1,4 +1,4 @@
-# hybrid-test
+# test-task-template
 
 ## Project setup
 ```
